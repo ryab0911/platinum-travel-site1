@@ -1,5 +1,5 @@
 .site-footer {
-  background-color: #2f5572;
+  background-color: $mainBlue;
   color: #fff;
   padding: 0.5rem 0;
   text-align: center;
